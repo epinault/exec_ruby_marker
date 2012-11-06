@@ -29,7 +29,22 @@ First you need to install the following gem for all the version of ruby you will
 
     gem install rcodetools
 
+Next you will need to clone the repository into the packages folder
 
+* On Linux
+    
+    cd $HOME/.gnome2/Sublime2/Packages/
+    git clone git://github.com/epinault-ttc/exec_ruby_marker.git ExecRubyMarker
+
+To use the plugin, press CTRL + SHIFT + C on the current selected file
+
+* On OSX 
+
+    cd $HOME/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+    git clone git://github.com/epinault-ttc/exec_ruby_marker.git ExecRubyMarker
+
+To use the plugin, press CMD + SHIFT + C on the current selected file
+    
 Configuration
 -------------
 

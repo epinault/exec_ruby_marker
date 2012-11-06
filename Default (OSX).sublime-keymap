@@ -1,0 +1,5 @@
+[
+ {  
+        "keys": ["super+shift+c"], "command": "execute_and_update_ruby_markers"  
+ } 
+]
